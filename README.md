@@ -2,6 +2,10 @@
 
 #### Here is a new Django Tutorial for beginners, create an issue, watch me and follow me, for more info email me!
 
+## <ins>What's django?</ins>
+    Django is web development framework that assists in building and maintainning quality web applications. Django helps eliminate repetitive tasks making the 
+    development process an easy and time saving experience. This tutorial gives a complete understanding of Django.     
+
 ##### As a beginner in Django some prerequisites are needed by the said student!
 
 * HTML at the tips\
@@ -10,6 +14,7 @@ As for me, I use
     * BOOTSTRAP 
     * TAILWIND 
     * ...mail may for better ones if so.
+* Basic notions in OOP: control structures, data structures and variables, classes, objects and
 
 * Javascript, which the most common language between programmers <br>
 NO worry books will be provided for your learning.
@@ -50,6 +55,7 @@ This is the step where you check if your installations where successfully done. 
 ###`python manage.py runserver`
 
 and to stop the server feel free to press `ctrl` + `c`
+
 
 By default, django runs with the default address of **http://127.0.0.1:8000/**, keeping in mind that it can fully be \
 customise. Below is an illustration of what it gives as output.
