@@ -93,6 +93,6 @@ Browser result **http://127.0.0.1:8000/admin/**
 
 On track? Let's move on!
 
-##<ins>Get some tips</ins>
+## <ins>Get some tips</ins>
 
 In the template folder in this repo, create as many html files as you want or 🤔 as necessary,
