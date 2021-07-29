@@ -5,7 +5,5 @@ from django.shortcuts import render
 
 
 def index(request):
-    today = datetime.date.today()
-    return render(request, "index.html")
-
-
+    context = {'today': datetime.date.today(), 'year': datetime.date.year}
+    return render(request, "index.html", context)
